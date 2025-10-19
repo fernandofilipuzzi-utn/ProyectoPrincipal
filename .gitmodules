@@ -1,0 +1,3 @@
+[submodule "ProyectoPrincipal"]
+	path = ProyectoPrincipal
+	url = https://github.com/fernandofilipuzzi-utn/ProyectoPrincipal.git
